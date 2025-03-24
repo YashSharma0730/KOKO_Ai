@@ -12,7 +12,7 @@ COHERE_API_KEY = "AA02alenZirEbQSRoCkTVm1TNVqMW8uH1KJWh97F"
 # Load dataset function
 @st.cache_data
 def load_mental_health_data():
-    with open("/Users/yashsharma/Desktop/Chatbot/file.json", "r") as file:
+    with open("/Instances.json", "r") as file:
         return json.load(file)
 
 
