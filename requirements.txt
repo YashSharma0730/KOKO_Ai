@@ -1,8 +1,4 @@
-streamlit
-langchain
-langchain_community
-cohere
-json
-time
-os
-datetime
+streamlit==1.43.2
+langchain==0.1.6
+langchain_community==0.0.22
+cohere==4.0.0
