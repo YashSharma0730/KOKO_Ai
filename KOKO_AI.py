@@ -6,13 +6,13 @@ from langchain_community.llms import Cohere
 import datetime
 
 # Set API Key
-COHERE_API_KEY = "AA02alenZirEbQSRoCkTVm1TNVqMW8uH1KJWh97F"
+COHERE_API_KEY = "BizCZnD7aKnMbhi4miz8hLhlWQo6zp35ew2Mg6BS"
 
 
 # Load dataset function
 @st.cache_data
 def load_mental_health_data():
-    with open("/Instances.json", "r") as file:
+    with open("/Users/yashsharma/Desktop/Chatbot/Instances.json", "r") as file:
         return json.load(file)
 
 
