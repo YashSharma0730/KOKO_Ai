@@ -1,5 +1,7 @@
 # KOKO Ai - A Compassionate Mental Health Chatbot
 
+<img width="1467" alt="Screenshot 2025-03-24 at 12 28 41 PM" src="https://github.com/user-attachments/assets/d8846436-7477-4176-b2ef-ed57f729bc93" />
+
 ## Overview
 KOKO Ai is a supportive and compassionate mental health chatbot designed to uplift and encourage users who may be feeling distressed. It provides thoughtful, empowering responses with actionable self-care tips using the Cohere LLM model.
 
@@ -63,4 +65,4 @@ Feel free to fork this project and contribute improvements! Submit a pull reques
 This project is licensed under the MIT License.
 
 ## Contact
-For inquiries, reach out at [your-email@example.com].
+For inquiries, reach out at [sharma2004yash@gmail.com].
