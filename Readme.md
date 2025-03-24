@@ -30,7 +30,7 @@ pip install streamlit langchain_community cohere
 ### 1. Set Up API Key
 Replace `Enter Your Key` in `COHERE_API_KEY` with your actual Cohere API key.
 
-### 2. Load Dataset
+### 2. Give the Correct path to Json File
 Ensure you have the `Instances.json` file in the specified directory:
 ```
 /Users/yashsharma/Desktop/Chatbot/Instances.json
