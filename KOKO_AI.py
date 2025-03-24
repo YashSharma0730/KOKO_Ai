@@ -6,7 +6,7 @@ from langchain_community.llms import Cohere
 import datetime
 
 # Set API Key
-COHERE_API_KEY = "BizCZnD7aKnMbhi4miz8hLhlWQo6zp35ew2Mg6BS"
+COHERE_API_KEY = "Enter Your Key"
 
 
 # Load dataset function
